@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.Dotnet.Runtime.Benchmarks.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../:\git\dotnet-runtime-benchmarks\.idea\.idea.Dotnet.Runtime.Benchmarks\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
