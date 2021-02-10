@@ -7,7 +7,7 @@ namespace Dotnet.Runtime.Benchmarks
     [MemoryDiagnoser]
     public class XmlConfigurationBenchmarks
     {
-        [Params("deep-settings.xml", "repeated-elements.xml", "simple-key-values.xml")]
+        [Params("simple.xml", "deep.xml", "names.xml", "repeated.xml")]
         public string TestFile { get; set; }
         
         [Benchmark(Baseline = true)]

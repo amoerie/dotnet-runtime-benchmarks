@@ -15,13 +15,16 @@
     </ItemGroup>
     
     <ItemGroup>
-      <None Update="deep-settings.xml">
+      <None Update="deep.xml">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
-      <None Update="repeated-elements.xml">
+      <None Update="repeated.xml">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
-      <None Update="simple-key-values.xml">
+      <None Update="simple.xml">
+        <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      </None>
+      <None Update="names.xml">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
     </ItemGroup>
